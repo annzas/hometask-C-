@@ -1,0 +1,15 @@
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.csproj.AssemblyReference.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.AssemblyInfoInputs.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.AssemblyInfo.cs
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.csproj.CoreCompileInputs.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/bin/Debug/net6.0/TASKone
+/Users/annanorina/Desktop/HomeC#/TASKone/bin/Debug/net6.0/TASKone.deps.json
+/Users/annanorina/Desktop/HomeC#/TASKone/bin/Debug/net6.0/TASKone.runtimeconfig.json
+/Users/annanorina/Desktop/HomeC#/TASKone/bin/Debug/net6.0/TASKone.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/bin/Debug/net6.0/TASKone.pdb
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/refint/TASKone.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.pdb
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/TASKone.genruntimeconfig.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/obj/Debug/net6.0/ref/TASKone.dll
