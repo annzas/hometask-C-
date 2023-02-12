@@ -1,0 +1,15 @@
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/bin/Debug/net6.0/TASKtwo
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/bin/Debug/net6.0/TASKtwo.deps.json
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/bin/Debug/net6.0/TASKtwo.runtimeconfig.json
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/bin/Debug/net6.0/TASKtwo.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/bin/Debug/net6.0/TASKtwo.pdb
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.csproj.AssemblyReference.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.AssemblyInfoInputs.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.AssemblyInfo.cs
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.csproj.CoreCompileInputs.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/refint/TASKtwo.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.pdb
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/TASKtwo.genruntimeconfig.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKtwo/obj/Debug/net6.0/ref/TASKtwo.dll

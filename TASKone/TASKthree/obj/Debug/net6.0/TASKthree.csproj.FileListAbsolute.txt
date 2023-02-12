@@ -1,0 +1,15 @@
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.csproj.AssemblyReference.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.AssemblyInfoInputs.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.AssemblyInfo.cs
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.csproj.CoreCompileInputs.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/bin/Debug/net6.0/TASKthree
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/bin/Debug/net6.0/TASKthree.deps.json
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/bin/Debug/net6.0/TASKthree.runtimeconfig.json
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/bin/Debug/net6.0/TASKthree.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/bin/Debug/net6.0/TASKthree.pdb
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/refint/TASKthree.dll
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.pdb
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/TASKthree.genruntimeconfig.cache
+/Users/annanorina/Desktop/HomeC#/TASKone/TASKthree/obj/Debug/net6.0/ref/TASKthree.dll
